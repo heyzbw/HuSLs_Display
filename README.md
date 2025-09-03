@@ -1,5 +1,6 @@
 # **HuSLs (Display)**
 > For the complete model and algorithm, please contact: bowen.zhi24@imperial.ac.uk
+
 > A Hierarchical Framework for Humanoid Locomotion with Supernumerary Limbs (SLs)
 
 
