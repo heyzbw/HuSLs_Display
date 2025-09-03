@@ -1,4 +1,4 @@
-# **HuSls (Display)**
+# **HuSLs (Display)**
 > For the complete model and algorithm, please contact: bowen.zhi24@imperial.ac.uk
 > A Hierarchical Framework for Humanoid Locomotion with Supernumerary Limbs (SLs)
 
@@ -81,7 +81,7 @@ python eval.py --path outputs/PPOJax_example.pkl
 
 This evaluation script utilizes the "Mixed Control Mode". The responsibilities are clearly divided:
 
-- **AI Agent**: Controls the complex, dynamic motion of the HuSls system, mainly the locomotion from training, like walking.
+- **AI Agent**: Controls the complex, dynamic motion of the HuSLs system, mainly the locomotion from training, like walking.
 - **Environment's PD Controller**: Overrides the AI's commands for the Supernumerary robotic limbs, forcing them to achieve and maintain the grasp-forward pose.
 
 This ensures testing the AI's ability under a consistent, challenging load.
