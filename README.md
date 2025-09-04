@@ -120,15 +120,27 @@ Inside  `exp_info.py`, experiment scenarios can be selected by modifying the `en
 - A Key: Toggles recording for All data streams at once.
 
 
-Baseline Humanoid running:
+Baseline Humanoid Walking:
+
+<img src="img/exp_walkh.gif" alt="eval" width="500"/>
+
+Humanoid with Static Payload Walking:
+
+<img src="img/exp_walks.gif" alt="eval" width="500"/>
+
+Humanoid with Dynamic Balancing Walking:
+
+<img src="img/exp_walkb.gif" alt="eval" width="500"/>
+
+Baseline Humanoid Running:
 
 <img src="img/exp_runh.gif" alt="eval" width="500"/>
 
-Humanoid with Static Payload running:
+Humanoid with Static Payload Running:
 
 <img src="img/exp_runs.gif" alt="eval" width="500"/>
 
-Humanoid with Dynamic Balancing running:
+Humanoid with Dynamic Balancing Running:
 
 <img src="img/exp_runb.gif" alt="eval" width="500"/>
 
